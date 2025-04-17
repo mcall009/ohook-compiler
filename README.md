@@ -3,7 +3,7 @@
 ### Esta ferramenta não está ligada ao massgrave.
 Site Oficial do Massgrave: https://massgrave.dev/
 
-### README ENGLISH: https://github.com/mcall009/ohook-compiler/blob/main/README-EN.md
+### README ENGLISH: (https://github.com/mcall009/ohook-compiler/blob/main/README-EN.md)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
