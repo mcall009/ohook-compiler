@@ -7,7 +7,7 @@ Site Oficial do Massgrave: https://massgrave.dev/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Atenção: Em alguns casos o script retornará erro na compilação, porém, pode ser apenas um falso positivo. Confira no diretório ohook se a dll foi gerada, se sim, deu tudo certo.
+# Atenção: Em alguns casos o script retornará erro na compilação, porém, pode ser apenas um falso positivo. Confira no diretório ```C:\OHookBuilder\ohook``` ou ```C:\OHookBuider\Output``` se a dll foi gerada, se sim, deu tudo certo.
 ### Recomendação: Utilize uma máquina virtual para utilizar o script, um ambiente controlado.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -102,9 +102,9 @@ O script verifica se os checksums SHA-256 dos arquivos compilados correspondem a
 ## 6. Uso do Script
 
 ### 6.1 Execução Básica
-1. Execute o PowerShell como administrador
+1. Execute o PowerShell ou CMD como administrador
 2. Navegue até o diretório que contém o script
-3. Execute o comando: `python ohook-improved-script-organized.py`
+3. Execute o comando: `python ohook-buider.py`
 
 ### 6.2 Saída do Script
 - DLLs compiladas: Salvas em `C:\OHookBuilder\Output\`
