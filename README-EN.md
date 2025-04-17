@@ -5,7 +5,7 @@ Official Massgrave Website: https://massgrave.dev/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Warning: In some cases, the script may return a compilation error, but this could be a false positive. Check the ohook directory to see if the DLL was generated—if it was, everything worked fine.  
+# Warning: In some cases, the script may return a compilation error, but this could be a false positive. Check the ohook directory ```C:\OHookBuilder\ohook``` or ```C:\OHookBuider\Output``` to see if the DLL was generated—if it was, everything worked fine.  
 ### Recommendation: Use a virtual machine to run the script, ensuring a controlled environment.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -100,9 +100,9 @@ The script checks whether the SHA-256 checksums of the compiled files match the 
 ## 6. Script Usage
 
 ### 6.1 Basic Execution
-1. Run PowerShell as Administrator  
+1. Run PowerShell or CMD as Administrator  
 2. Navigate to the directory containing the script  
-3. Run the command: `python ohook-improved-script-organized.py`
+3. Run the command: `python ohook-builder.py`
 
 ### 6.2 Script Output
 - Compiled DLLs: Saved in `C:\OHookBuilder\Output\`  
