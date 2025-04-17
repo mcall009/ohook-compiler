@@ -1,6 +1,6 @@
 # ohook-compiler
 
-## Site Oficial Massgrave: https://massgrave.dev/
+### Script desenvolvido por mim, para o projeto Massgrave: https://massgrave.dev/
 
 # Atenção: Em alguns casos o script retornará erro na compilação, porém, pode ser apenas um falso positivo. Confira no diretório ohook se a dll foi gerada, se sim, deu tudo certo.
 
