@@ -1,5 +1,7 @@
 # ohook-compiler
 
+# Atenção: Em alguns casos o script retornará erro na compilação, porém, pode ser apenas um falso positivo. Confira no diretório ohook se a dll foi gerada, se sim, deu tudo certo.
+
 # Documentação do OHook Compiler (OHook Builder)
 
 ## 1. Visão Geral
