@@ -3,7 +3,10 @@
 ### Esta ferramenta não está ligada ao massgrave.
 Site Oficial do Massgrave: https://massgrave.dev/
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Atenção: Em alguns casos o script retornará erro na compilação, porém, pode ser apenas um falso positivo. Confira no diretório ohook se a dll foi gerada, se sim, deu tudo certo.
+### Recomendação: Utilize uma máquina virtual para utilizar o script, um ambiente controlado.
 
 # Documentação do OHook Compiler (OHook Builder)
 
