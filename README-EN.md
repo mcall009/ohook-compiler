@@ -5,7 +5,7 @@ Official Massgrave Website: https://massgrave.dev/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Warning: In some cases, the script may return a compilation error, but this could be a false positive. Check the ohook directory ```C:\OHookBuilder\ohook``` or ```C:\OHookBuilder\Output``` to see if the DLL was generated—if it was, everything worked fine.  
+## Warning: In some cases, the script may return a compilation error, but this could be a false positive. Check the ohook directory ```C:\OHookBuilder\ohook``` or ```C:\OHookBuilder\Output``` to see if the DLL was generated—if it was, everything worked fine.  
 ### Recommendation: Use a virtual machine to run the script, ensuring a controlled environment.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
