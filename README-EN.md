@@ -15,7 +15,7 @@ Official Massgrave Website: https://massgrave.dev/
 
 ## 1. Overview
 
-The OHook Builder is an automated Python script that compiles the OHook 0.5 dynamic link libraries (DLLs), which are used for specific software activation. The script automates the entire compilation process described in the original instructions, handling downloads, environment setup, compilation, and checksum verification.
+The OHook Builder is an automated Python script that compiles the [OHook 0.5](https://github.com/asdcorp/ohook/releases/download/0.5/ohook_0.5.zip) dynamic link libraries (DLLs), which are used for specific software activation. The script automates the entire compilation process described in the original instructions, handling downloads, environment setup, compilation, and checksum verification.
 
 ## 2. Purpose
 
