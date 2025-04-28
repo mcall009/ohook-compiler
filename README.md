@@ -1,6 +1,6 @@
 # ohook-compiler
 
-### Esta ferramenta não está ligada ao massgrave.
+### Esta ferramenta não está ligada diretamente ao projeto massgrave.
 Site Oficial do Massgrave: https://massgrave.dev/
 
 📘 [Read this in English](README-EN.md)
