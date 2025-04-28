@@ -3,6 +3,8 @@
 ### This tool is not affiliated with massgrave.  
 Official Massgrave Website: https://massgrave.dev/
 
+[🔗Manual office activation](https://massgrave.dev/manual_ohook_activation) - Follow these steps after you have finished compiling the Dll's.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Warning: In some cases, the script may return a compilation error, but this could be a false positive. Check the ohook directory ```C:\OHookBuilder\ohook``` or ```C:\OHookBuilder\Output``` to see if the DLL was generated—if it was, everything worked fine.  
