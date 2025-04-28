@@ -3,7 +3,7 @@
 ### This tool is not affiliated with massgrave.  
 Official Massgrave Website: https://massgrave.dev/
 
-[🔗Manual office activation](https://massgrave.dev/manual_ohook_activation) - Follow these steps after you have finished compiling the Dll's.
+[🔗Manual Office Activation](https://massgrave.dev/manual_ohook_activation) - Follow these steps after you have finished compiling the Dll's.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
