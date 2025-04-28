@@ -5,7 +5,7 @@ Site Oficial do Massgrave: https://massgrave.dev/
 
 📘 [Read this in English](README-EN.md)
 
-[🔗Ativação Manual do office](https://massgrave.dev/manual_ohook_activation) - Siga esses passos após finalizar a compilação das Dll's.
+[🔗Ativação Manual do Office](https://massgrave.dev/manual_ohook_activation) - Siga esses passos após finalizar a compilação das Dll's.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Atenção: Em alguns casos o script retornará erro na compilação, porém, pode ser apenas um falso positivo. Confira no diretório ```C:\OHookBuilder\ohook``` ou ```C:\OHookBuilder\Output``` se a dll foi gerada, se sim, deu tudo certo.
